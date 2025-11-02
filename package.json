@@ -1,0 +1,47 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshmahyavanshi/Well-Ahead.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshmahyavanshi/Well-Ahead/issues"
+  },
+  "homepage": "https://github.com/harshmahyavanshi/Well-Ahead#readme",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.16",
+    "@types/node": "^24.9.2",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "firebase": "^12.5.0",
+    "lucide-react": "^0.552.0",
+    "mongoose": "^8.19.2",
+    "next": "^16.0.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "tailwind-merge": "^3.3.1",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.39.0",
+    "eslint-config-next": "^16.0.1",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.16"
+  }
+}

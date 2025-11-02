@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Morning Yoga Session",
+    "description": "Start your day with a relaxing yoga session at the campus wellness center.",
+    "date": "2025-11-05",
+    "time": "7:00 AM",
+    "location": "Wellness Center",
+    "attendees": 24,
+    "maxAttendees": 30,
+    "type": "Yoga"
+  },
+  {
+    "id": 2,
+    "title": "5K Fun Run",
+    "description": "Join fellow students for a casual 5K run around campus. All fitness levels welcome!",
+    "date": "2025-11-08",
+    "time": "6:00 PM",
+    "location": "Campus Track",
+    "attendees": 42,
+    "maxAttendees": 50,
+    "type": "Running"
+  },
+  {
+    "id": 3,
+    "title": "Nutrition Workshop",
+    "description": "Learn about balanced eating and meal prep strategies for busy students.",
+    "date": "2025-11-10",
+    "time": "4:00 PM",
+    "location": "Student Center Room 201",
+    "attendees": 18,
+    "maxAttendees": 40,
+    "type": "Workshop"
+  },
+  {
+    "id": 4,
+    "title": "Meditation & Mindfulness",
+    "description": "Reduce stress and improve focus with guided meditation techniques.",
+    "date": "2025-11-12",
+    "time": "5:30 PM",
+    "location": "Quiet Garden",
+    "attendees": 15,
+    "maxAttendees": 25,
+    "type": "Meditation"
+  },
+  {
+    "id": 5,
+    "title": "Group Cycling Challenge",
+    "description": "Team-based cycling challenge. Form groups and compete for prizes!",
+    "date": "2025-11-15",
+    "time": "3:00 PM",
+    "location": "Rec Center",
+    "attendees": 31,
+    "maxAttendees": 60,
+    "type": "Cycling"
+  },
+  {
+    "id": 6,
+    "title": "Sleep Hygiene Seminar",
+    "description": "Expert tips on improving sleep quality for better academic performance.",
+    "date": "2025-11-18",
+    "time": "7:00 PM",
+    "location": "Virtual (Zoom)",
+    "attendees": 67,
+    "maxAttendees": 100,
+    "type": "Workshop"
+  }
+]

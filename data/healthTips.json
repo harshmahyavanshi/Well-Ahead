@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Stay Hydrated",
+    "description": "Drink at least 8 glasses of water today. Your brain is 75% water!",
+    "icon": "droplet",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Take a Stretch Break",
+    "description": "Stand up and stretch for 5 minutes every hour to improve posture.",
+    "icon": "activity",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Practice Deep Breathing",
+    "description": "Take 5 deep breaths to reduce stress and improve focus.",
+    "icon": "wind",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Check Your Posture",
+    "description": "Sit up straight! Good posture prevents back pain and fatigue.",
+    "icon": "user",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Get Moving",
+    "description": "Take a 10-minute walk to boost your energy and mood.",
+    "icon": "footprints",
+    "completed": false
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "cycling-basics",
+    "title": "Cycling Injury Prevention",
+    "description": "Essential warm-ups, posture tips, and recovery strategies for cyclists.",
+    "category": "Cycling",
+    "difficulty": "Beginner",
+    "points": 50,
+    "warmup": [
+      "5 minutes of light pedaling",
+      "Leg swings - 10 each side",
+      "Hip circles - 10 each direction",
+      "Ankle rotations - 10 each direction"
+    ],
+    "recovery": [
+      "Cool down with 5 minutes easy pedaling",
+      "Stretch quadriceps, hamstrings, and calves",
+      "Foam roll IT bands and glutes",
+      "Hydrate within 30 minutes"
+    ],
+    "safety": [
+      "Always wear a properly fitted helmet",
+      "Check tire pressure before rides",
+      "Use hand signals for turns",
+      "Stay visible with lights and reflective gear"
+    ]
+  },
+  {
+    "id": "football-training",
+    "title": "Football Fitness & Safety",
+    "description": "Prevent common football injuries with proper conditioning and technique.",
+    "category": "Football",
+    "difficulty": "Intermediate",
+    "points": 75,
+    "warmup": [
+      "10 minutes jogging",
+      "Dynamic stretching - leg swings, high knees",
+      "Agility drills - ladder or cone work",
+      "Sport-specific movements"
+    ],
+    "recovery": [
+      "Cool down jog for 5 minutes",
+      "Static stretching - hold 30 seconds each",
+      "Ice any sore areas",
+      "Protein within 1 hour"
+    ],
+    "safety": [
+      "Wear proper protective equipment",
+      "Stay hydrated during play",
+      "Learn proper tackling technique",
+      "Report any head injuries immediately"
+    ]
+  },
+  {
+    "id": "yoga-fundamentals",
+    "title": "Safe Yoga Practice",
+    "description": "Build flexibility and strength while avoiding common yoga injuries.",
+    "category": "Yoga",
+    "difficulty": "Beginner",
+    "points": 40,
+    "warmup": [
+      "5 minutes of gentle breathing",
+      "Cat-cow stretches - 10 reps",
+      "Neck rolls - 5 each direction",
+      "Shoulder rolls - 10 forward, 10 back"
+    ],
+    "recovery": [
+      "Savasana (corpse pose) - 5 minutes",
+      "Gentle spinal twist",
+      "Child's pose",
+      "Deep breathing exercises"
+    ],
+    "safety": [
+      "Never force a stretch",
+      "Listen to your body",
+      "Use props (blocks, straps) as needed",
+      "Inform instructor of any injuries"
+    ]
+  },
+  {
+    "id": "running-guide",
+    "title": "Running Injury Prevention",
+    "description": "Smart running strategies to avoid shin splints, knee pain, and more.",
+    "category": "Running",
+    "difficulty": "Intermediate",
+    "points": 60,
+    "warmup": [
+      "5 minutes brisk walking",
+      "Dynamic leg swings",
+      "High knees and butt kicks",
+      "Start with easy pace for first mile"
+    ],
+    "recovery": [
+      "Walk for 5-10 minutes",
+      "Stretch major muscle groups",
+      "Ice if needed",
+      "Adequate rest between runs"
+    ],
+    "safety": [
+      "Invest in proper running shoes",
+      "Increase mileage gradually (10% per week)",
+      "Run on softer surfaces when possible",
+      "Cross-train to prevent overuse"
+    ]
+  },
+  {
+    "id": "weightlifting-basics",
+    "title": "Weightlifting Fundamentals",
+    "description": "Master proper form and technique to build strength safely.",
+    "category": "Weightlifting",
+    "difficulty": "Advanced",
+    "points": 100,
+    "warmup": [
+      "5 minutes cardio (bike or row)",
+      "Dynamic stretching",
+      "Practice movements with empty bar",
+      "Progressive warm-up sets"
+    ],
+    "recovery": [
+      "Cool down with light cardio",
+      "Stretch worked muscle groups",
+      "Foam rolling",
+      "Adequate protein and rest"
+    ],
+    "safety": [
+      "Always use proper form over heavy weight",
+      "Use a spotter for heavy lifts",
+      "Rest between sets",
+      "Progress slowly and consistently"
+    ]
+  },
+  {
+    "id": "swimming-technique",
+    "title": "Swimming for Fitness",
+    "description": "Low-impact exercise with proper technique to avoid shoulder issues.",
+    "category": "Swimming",
+    "difficulty": "Intermediate",
+    "points": 70,
+    "warmup": [
+      "Easy swimming for 5 minutes",
+      "Arm circles out of water",
+      "Gentle shoulder stretches",
+      "Practice breathing technique"
+    ],
+    "recovery": [
+      "Cool down with easy laps",
+      "Gentle stretching",
+      "Shower to relax muscles",
+      "Stay warm after swimming"
+    ],
+    "safety": [
+      "Never swim alone",
+      "Learn proper breathing technique",
+      "Build endurance gradually",
+      "Use proper pool equipment"
+    ]
+  }
+]
